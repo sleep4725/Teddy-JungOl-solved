@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  * @author JunHyeon.Kim
- * @date 20230125
+ * @date 20230125i
  */
 public class Main {
 
